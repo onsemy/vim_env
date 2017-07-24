@@ -76,3 +76,5 @@ autocmd FileType ruby compiler ruby
 set expandtab
 set tabstop=4 shiftwidth=4 softtabstop=4
 set autoindent
+set nu
+set hlsearch
