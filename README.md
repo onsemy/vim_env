@@ -11,3 +11,4 @@ for oNsemy
   - Require vim-nox
     - ```sudo apt-get install vim-nox``` (for Ubuntu/Debian)
 - [NERDTree](http://vimawesome.com/plugin/nerdtree-red)
+- [vim-airline](http://vimawesome.com/plugin/vim-airline)
